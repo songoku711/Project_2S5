@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=01-100BASET1_PHY.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01-100BASET1_PHY.SchDoc|FileName=02-100BASETX_PHY.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01-100BASET1_PHY.SchDoc|FileName=03-MCU_INTERFACE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-100BASET1_PHY.SchDoc|FileName=04-USB_POWER.SchDoc|SheetNumber= 
